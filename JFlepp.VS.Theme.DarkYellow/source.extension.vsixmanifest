@@ -4,8 +4,11 @@
         <Identity Id="JFlepp.VS.Theme.DarkYellow.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="Jann Flepp" />
         <DisplayName>JFlepp.VS.Theme.DarkYellow</DisplayName>
         <Description xml:space="preserve">Dark Yellow Visual Studio theme</Description>
+        <MoreInfo>https://github.com/jflepp/JFlepp.VS.Theme.DarkYellow/tree/master</MoreInfo>
         <License>Licence.txt</License>
         <Icon>DarkYellow.ico</Icon>
+        <PreviewImage>Screenshot1.jpg</PreviewImage>
+        <Tags>Theme</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
