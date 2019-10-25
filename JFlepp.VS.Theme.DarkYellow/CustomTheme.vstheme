@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="JFlepp.VS.Theme (6)" GUID="{03fd7c32-c945-47e9-9e3c-fc1ba2992ab1}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="JFlepp.VS.Theme (7)" GUID="{77929a71-6a05-45db-a7cb-fa4f684167fd}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -3853,7 +3853,7 @@
         <Background Type="CT_RAW" Source="FFCA5100" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FFECC969" />
+        <Background Type="CT_RAW" Source="FFA27500" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
         <Background Type="CT_RAW" Source="7F000000" />
@@ -5973,7 +5973,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonPressedBorder">
-        <Background Type="CT_RAW" Source="FFFFD260" />
+        <Background Type="CT_RAW" Source="FF886200" />
       </Color>
       <Color Name="CallToActionButton">
         <Background Type="CT_RAW" Source="FFC69002" />
@@ -6030,7 +6030,7 @@
         <Background Type="CT_RAW" Source="FFCC9302" />
       </Color>
       <Color Name="TeamExplorerHomeWITFamilyIconFill">
-        <Background Type="CT_RAW" Source="FFFFD260" />
+        <Background Type="CT_RAW" Source="FF886200" />
       </Color>
       <Color Name="TeamExplorerHomeSCCFamilyIconFill">
         <Background Type="CT_RAW" Source="FF68217A" />
@@ -6069,7 +6069,7 @@
         <Background Type="CT_RAW" Source="FF886200" />
       </Color>
       <Color Name="TETileListBackgroundSelected">
-        <Background Type="CT_RAW" Source="FFFFD260" />
+        <Background Type="CT_RAW" Source="FF886200" />
       </Color>
       <Color Name="TETileListForegroundSelected">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
