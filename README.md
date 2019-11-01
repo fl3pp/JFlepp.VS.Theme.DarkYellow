@@ -8,7 +8,7 @@ Created using [Visual Studio Color Theme Designer](https://marketplace.visualstu
 
 ## Colors
 
-![Colors](Docs/Colors - Desktop.png)
+![Colors - Desktop]("Docs/Colors - Desktop.png")
 
 ## Licence 
 
