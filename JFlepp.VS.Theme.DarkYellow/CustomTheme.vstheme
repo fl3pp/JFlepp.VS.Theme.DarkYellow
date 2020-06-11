@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="JFlepp.VS.Theme.DarkYellow" GUID="{d121c672-49ea-46ee-a7e2-e0ed526331db}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="JFlepp.VS.Theme.DarkYellow" GUID="{7d8e6abe-2c28-42a7-8161-712c246d807e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -6694,7 +6694,7 @@
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FFFFD871" />
       </Color>
       <Color Name="xml literal - attribute quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6706,7 +6706,7 @@
       </Color>
       <Color Name="xml literal - cdata section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE9D585" />
+        <Foreground Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
       <Color Name="xml literal - comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7165,12 +7165,36 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="axml - attribute name">
-        <Background Type="CT_RAW" Source="FFFFD871" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FFFFD871" />
       </Color>
       <Color Name="axml - attribute value">
-        <Background Type="CT_RAW" Source="FFC8C8C8" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="axml - cdata section">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FF85D5E9" />
+      </Color>
+      <Color Name="axml - delimiter">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FF858A88" />
+      </Color>
+      <Color Name="axml - processing instruction">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="axml - text">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="axml - name">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFECAB00" />
+      </Color>
+      <Color Name="axml - resource url">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFCF710C" />
       </Color>
       <Color Name="axml - entity reference">
         <Background Type="CT_INVALID" Source="00000000" />
