@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="JFlepp.VS.Theme.DarkYellow" GUID="{7d8e6abe-2c28-42a7-8161-712c246d807e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="JFlepp.VS.Theme.DarkYellow" GUID="{19077523-bf29-476c-8a77-b13cebe123c1}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -6216,11 +6216,11 @@
       </Color>
       <Color Name="XAML Markup Extension Class">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FFECAB00" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFD871" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7167,6 +7167,10 @@
       <Color Name="axml - attribute name">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FFFFD871" />
+      </Color>
+      <Color Name="axml - attribute quotes">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="axml - attribute value">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
