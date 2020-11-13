@@ -6271,10 +6271,10 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
-    <Category Name="Android Layout Editor Colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="Code Editor Colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="inline parameter name hints">
-        <Foreground Type="CT_RAW" Source="FF7C7C7C" />
         <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FF7C7C7C" />
       </Color>				
       <Color Name="ReSharper Parameter Name Hint">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
