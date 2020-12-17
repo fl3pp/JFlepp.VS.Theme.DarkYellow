@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="JFlepp.VS.Theme.DarkYellow" GUID="{19077523-bf29-476c-8a77-b13cebe123c1}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="JFlepp.VS.Theme.DarkYellow (2)" GUID="{ea5a78c1-5cef-4aef-a27c-117ae1679c43}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1893,7 +1893,7 @@
         <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="InfoText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Menu">
         <Background Type="CT_RAW" Source="FF1B1B1C" />
@@ -3094,7 +3094,7 @@
         <Background Type="CT_RAW" Source="FF2D2D30" />
       </Color>
       <Color Name="PanelSubGroupSeparator">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="PanelText">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -4113,14 +4113,17 @@
       <Color Name="ComboBoxFocusBox">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
+      <Color Name="FileTabParentText">
+        <Background Type="CT_RAW" Source="FFB6B6B6" />
+      </Color>
       <Color Name="FileTabGroupTitleBackground">
-        <Background Type="CT_RAW" Source="FF3E3E40" />
+        <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="FileTabActiveGroupTitleBackground">
-        <Background Type="CT_RAW" Source="FF3E3E40" />
+        <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="FileTabActiveGroupBackground">
-        <Background Type="CT_RAW" Source="FF3E3E40" />
+        <Background Type="CT_RAW" Source="FF252526" />
       </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
@@ -6275,7 +6278,7 @@
       <Color Name="inline parameter name hints">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FF7C7C7C" />
-      </Color>				
+      </Color>
       <Color Name="ReSharper Parameter Name Hint">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FF95DDF2" />
@@ -8632,7 +8635,7 @@
       </Color>
       <Color Name="ToolTipBorder">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
     </Category>
     <Category Name="Parallel Stacks" GUID="{4330ebb5-2f04-4e03-8414-69f6035087e0}">
