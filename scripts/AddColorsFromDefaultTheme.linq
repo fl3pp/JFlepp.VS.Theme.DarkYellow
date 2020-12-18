@@ -41,7 +41,8 @@ void Main()
 			parentNode.Add(additionalColor);
 		}
 	}
-	additionalColors.Select(c => darkColors[c]).SelectMany(c => new[] { c.Foreground, c.Background }).Distinct().Dump();
+	additionalColors.Select(c => darkColors[c]).SelectMany(c => new[] { c.Foreground, c.Background }).Distinct().Dump("New color Palette");
+	additionalColors.Select(c => darkColors[c]).Select(c => (Name: c.Name, Foreground: c.Foreground, Background: c.Background)).Dump("New Settings");
 	File.WriteAllText(jfleppThemePath, jfleppXDoc.ToString());	
 }
 
