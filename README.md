@@ -1,8 +1,8 @@
 #  JFlepp.VS.Theme.DarkYellow
 
-Dark Yellow Visual Studio Theme, compatible with Visual Studio 2019. Supports coloring for [VsVim](https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim) and ReSharper.
+Dark Yellow Visual Studio Theme, compatible with Visual Studio 2019.
 
-Created using [Visual Studio Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner).
+Note: An earlier version of this tool explicitly supported VsVim and ReSharpter. This is not possible anymore, since this version is taking use of the [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs).
 
 ![ExampleGif](Docs/JFlepp.EpubToHtml.Recording.gif)
 
