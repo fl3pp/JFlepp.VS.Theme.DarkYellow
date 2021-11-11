@@ -18,8 +18,8 @@ Color[] GetColors(string path)
 
 void Main()
 {
-	var jfleppThemePath = @"C:\dev\JFlepp.VS.Theme.DarkYellow\JFlepp.VS.Theme.DarkYellow\CustomTheme.vstheme";
-	var defaultThemePath = @"C:\temp\DefaultVSTheme\CustomTheme.vstheme";
+	var jfleppThemePath = @"C:\dev\JFlepp.VS.Theme.DarkYellow\JFlepp.VS22.Theme.DarkYellow\CustomTheme.vstheme";
+	var defaultThemePath = @"C:\dev\JFlepp.VS.Theme.DarkYellow\JFlepp.VS.Theme.DarkYellow\CustomTheme.vstheme";
 
 	var jfleppColors = GetColors(jfleppThemePath).ToDictionary(c => c.Name, c => c);
 	var darkColors = GetColors(defaultThemePath).ToDictionary(c => c.Name, c => c);
