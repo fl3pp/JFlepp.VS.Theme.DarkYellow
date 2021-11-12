@@ -6,10 +6,6 @@ Created using [Visual Studio Color Theme Designer](https://marketplace.visualstu
 
 ![ExampleGif](Docs/JFlepp.EpubToHtml.Recording.gif)
 
-## Colors
-
-![ColorsDesktop](Docs/ColorsDesktop.png)
-
 ## Licence 
 
 MIT
