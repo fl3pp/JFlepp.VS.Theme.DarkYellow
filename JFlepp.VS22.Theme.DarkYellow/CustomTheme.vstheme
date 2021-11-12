@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="JFlepp.VS22.Theme.DarkYellow (6)" GUID="{8b37d7bf-c395-42cc-8f17-c763d14e369d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="JFlepp.VS22.Theme.DarkYellow (7)" GUID="{7fd4436a-14f0-4fb7-9450-f24dd6388df6}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -1840,7 +1840,7 @@
       </Color>
       <Color Name="interface name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDF68" />
+        <Foreground Type="CT_RAW" Source="FFD5DE5F" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1852,7 +1852,7 @@
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDF68" />
+        <Foreground Type="CT_RAW" Source="FFD5DE5F" />
       </Color>
       <Color Name="inline hints">
         <Background Type="CT_RAW" Source="FF3E3E3E" />
@@ -2584,7 +2584,7 @@
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFB5D8" />
+        <Foreground Type="CT_RAW" Source="FFFFA6D0" />
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2600,7 +2600,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF95DDF2" />
+        <Foreground Type="CT_RAW" Source="FF8EE1D5" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2640,7 +2640,7 @@
       </Color>
       <Color Name="FSharp.DisposableType">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDF68" />
+        <Foreground Type="CT_RAW" Source="FFD5DE5F" />
       </Color>
       <Color Name="FSharp.DisposableLocalValue">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2656,7 +2656,7 @@
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FF95DDF2" />
+        <Foreground Type="CT_RAW" Source="FF8EE1D5" />
       </Color>
       <Color Name="HTML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -4727,10 +4727,10 @@
         <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBar">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarArrowBackground">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarArrowDisabledBackground">
         <Background Type="CT_RAW" Source="FF3E3E42" />
@@ -4748,19 +4748,19 @@
         <Background Type="CT_RAW" Source="FFC69002" />
       </Color>
       <Color Name="ScrollBarArrowMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarArrowPressedBackground">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarBackground">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarBorder">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarDisabledBackground">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarThumbBackground">
         <Background Type="CT_RAW" Source="FF686868" />
@@ -4769,7 +4769,7 @@
         <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="ScrollBarThumbDisabled">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="ScrollBarThumbGlyph">
         <Background Type="CT_RAW" Source="FF686868" />
