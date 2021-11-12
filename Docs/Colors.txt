@@ -5,8 +5,8 @@
 Default: FFA27500 rgb(162, 117, 0)
 Lighter: FFCC9302
 Very Light: FFF5F2D0
-Darker : FFFFA27500
-
+Darker : FFA27500
+Very Dark: FF866203
 
 Options -> Environment -> Fonts and Colors -> Text Editor -> @
 
