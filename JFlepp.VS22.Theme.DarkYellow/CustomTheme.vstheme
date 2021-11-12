@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="JFlepp.VS22.Theme.DarkYellow (5)" GUID="{c8771859-9b94-4b48-89d1-d953f08f878d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="JFlepp.VS22.Theme.DarkYellow (6)" GUID="{8b37d7bf-c395-42cc-8f17-c763d14e369d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -2592,7 +2592,7 @@
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF0F0F0" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2628,7 +2628,7 @@
       </Color>
       <Color Name="FSharp.Function">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF8083" />
+        <Foreground Type="CT_RAW" Source="FF87A9FA" />
       </Color>
       <Color Name="FSharp.MutableVar">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2640,15 +2640,15 @@
       </Color>
       <Color Name="FSharp.DisposableType">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDF68" />
       </Color>
       <Color Name="FSharp.DisposableLocalValue">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDF68" />
       </Color>
       <Color Name="FSharp.DisposableTopLevelValue">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDCDF68" />
       </Color>
       <Color Name="inline parameter name hints">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
