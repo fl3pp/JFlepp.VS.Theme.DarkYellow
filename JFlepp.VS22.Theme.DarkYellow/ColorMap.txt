@@ -1,4 +1,6 @@
 ﻿Keyword (DarkYellow): rgb(236, 171, 0), #ecab00
+Number (Neon Green): rgb(129, 255, 117), #81ff75
+Strings (Brows): rgb(201, 125, 92), #c97d5c
 Locals, Namespaces (Red): rgb(255, 128, 131), #ff8083
 Fields (Pink): rgb(255, 166, 208), #ffa6d0
 Methods (Blue): rgb(135, 169, 250), #87a9fa
