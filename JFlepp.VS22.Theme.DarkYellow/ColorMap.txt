@@ -1,0 +1,10 @@
+﻿Keyword (DarkYellow): rgb(236, 171, 0), #ecab00
+Locals, Namespaces (Red): rgb(255, 128, 131), #ff8083
+Fields (Pink): rgb(255, 166, 208), #ffa6d0
+Methods (Blue): rgb(135, 169, 250), #87a9fa
+Parameters (Light Blue): rgb(142, 225, 213), #8ee1d5
+Properties (Purple): rgb(196, 147, 255), #c493ff
+Constants (Grey): rgb(220, 220, 220), #dcdcdc
+Classes (Green): rgb(62, 201, 99), #3ec963
+Enums (Orange): rgb(253, 132, 52), #fd8434
+Interfaces (Yellow): rgb(213, 222, 95), #d5de5f
