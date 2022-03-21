@@ -59,6 +59,7 @@
     <PackageReference Include="Microsoft.VisualStudio.VsixColorCompiler" Version="17.0.31709.430" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ColorMap.txt" />
     <Content Include="DarkYellow.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
