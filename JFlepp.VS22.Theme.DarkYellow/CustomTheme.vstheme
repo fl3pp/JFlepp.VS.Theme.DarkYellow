@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="JFlepp.VS22.Theme.DarkYellow (8)" GUID="{382d55b3-4527-4c09-a513-b9b9411a3bad}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="JFlepp.VS22.Theme.DarkYellow" GUID="{382d55b3-4527-4c09-a513-b9b9411a3bad}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
