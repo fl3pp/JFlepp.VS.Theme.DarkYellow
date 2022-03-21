@@ -1812,7 +1812,7 @@
       </Color>
       <Color Name="CppStringDelimiterCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE8C9BB" />
+        <Foreground Type="CT_RAW" Source="FFC97D5C" />
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6492,19 +6492,15 @@
     <Category Name="SQL Results - Grid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
       <Color Name="Header Row">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Cell">
         <Background Type="CT_RAW" Source="FF3399FF" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Cell">
         <Background Type="CT_RAW" Source="FF3F3F46" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Null Value Cell">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Grid Cell">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
